@@ -1,0 +1,5 @@
+root
+root
+jdbc:mysql://127.0.0.1/jardineria
+
+//estas lineas hacen referencia al user, pass y url de la DB
